@@ -186,8 +186,8 @@ systemctl
 ============== info 085 ==================
 
 🌐 Access GenieACS
-```
-[systemctl](http://<your-server-ip>:3000)
-```
+
+Visit the web UI: `http://your-server-ip:3000`
+
 🤝 Kontribusi
 Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue jika menemukan bug.
