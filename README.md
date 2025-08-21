@@ -175,12 +175,6 @@ systemctl status genieacs-ui
 ```
 systemctl status mongod.service
 ```
-```
-systemctl
-```
-```
-systemctl
-```
 
 
 ============== info 085 ==================
