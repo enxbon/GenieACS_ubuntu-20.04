@@ -7,7 +7,7 @@
 apt update && sudo apt upgrade -y
 ```
 ```
-apt install -y curl git build-essential redis-server
+apt install -y curl git build-essential redis-server sudo wget
 ```
 ```
 systemctl enable redis
