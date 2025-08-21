@@ -57,7 +57,7 @@ sudo chown -R genieacs:genieacs genieacs
 cd genieacs
 ```
 ```
-sudo -u genieacs npm install
+sudo -u genieacs npm install -g npm@11.5.2
 ```
 ```
 sudo -u genieacs npm run build
